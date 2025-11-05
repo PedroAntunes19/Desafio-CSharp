@@ -1,0 +1,14 @@
+C:\Users\pedro\OneDrive\Desktop\Upper.CsharpIniciante\Desafio1\bin\Debug\net9.0\Desafio1.exe
+C:\Users\pedro\OneDrive\Desktop\Upper.CsharpIniciante\Desafio1\bin\Debug\net9.0\Desafio1.deps.json
+C:\Users\pedro\OneDrive\Desktop\Upper.CsharpIniciante\Desafio1\bin\Debug\net9.0\Desafio1.runtimeconfig.json
+C:\Users\pedro\OneDrive\Desktop\Upper.CsharpIniciante\Desafio1\bin\Debug\net9.0\Desafio1.dll
+C:\Users\pedro\OneDrive\Desktop\Upper.CsharpIniciante\Desafio1\bin\Debug\net9.0\Desafio1.pdb
+C:\Users\pedro\OneDrive\Desktop\Upper.CsharpIniciante\Desafio1\obj\Debug\net9.0\Desafio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\OneDrive\Desktop\Upper.CsharpIniciante\Desafio1\obj\Debug\net9.0\Desafio1.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Desktop\Upper.CsharpIniciante\Desafio1\obj\Debug\net9.0\Desafio1.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Desktop\Upper.CsharpIniciante\Desafio1\obj\Debug\net9.0\Desafio1.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Desktop\Upper.CsharpIniciante\Desafio1\obj\Debug\net9.0\Desafio1.dll
+C:\Users\pedro\OneDrive\Desktop\Upper.CsharpIniciante\Desafio1\obj\Debug\net9.0\refint\Desafio1.dll
+C:\Users\pedro\OneDrive\Desktop\Upper.CsharpIniciante\Desafio1\obj\Debug\net9.0\Desafio1.pdb
+C:\Users\pedro\OneDrive\Desktop\Upper.CsharpIniciante\Desafio1\obj\Debug\net9.0\Desafio1.genruntimeconfig.cache
+C:\Users\pedro\OneDrive\Desktop\Upper.CsharpIniciante\Desafio1\obj\Debug\net9.0\ref\Desafio1.dll
